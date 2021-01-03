@@ -1,0 +1,15 @@
+{
+	"blacklist": [],
+	"categorydata": [
+		"464198850027061249_hidden",
+		"248822834317492245_hidden"
+	],
+	"settings": {
+		"showAnnouncement": true,
+		"showForNormal": false,
+		"showStore": true,
+		"showText": true,
+		"showVoice": true,
+		"sortNative": false
+	}
+}
